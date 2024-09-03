@@ -31,7 +31,7 @@ I have used the **Page Object Model** concept to write the test cases and used *
 Execute following commands for Test execution
 1. `mvn clean` - deletes the target directory
 2. `mvn compile` - compiles the java code
-3. `mvn test` - executed the test cases
+3. `mvn test` - executes test cases
 
 ## Evidence
 Attached the execution video for reference - [Link](https://drive.google.com/file/d/12sj0Ak8RgDedDL3OWatFq8iJVULRuY7c/view?usp=sharing)
